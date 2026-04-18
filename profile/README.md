@@ -7,6 +7,7 @@ East China Gold Medal is an interest group from ***Hangzhou Dianzi University In
 + CaYyon Tsai([@CaYyon](https://github.com/CaYyon))
 + X. "Old Xianyu" Chen ([@OldXianYu17](https://github.com/OldXianYu17))
 + Kurt Steiner([@nesteiner](https://github.com/nesteiner))
++ Astrozen Zhou ([@winaro](https://github.com/wirano))
 ## Program Managers
 + Serene Wong([@SereneWong](https://github.com/SereneWong))
 + Master Zhang([@masterzyc1](https://github.com/masterzyc1))
